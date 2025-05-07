@@ -24,7 +24,8 @@ This project explores crime patterns in Kansas City using Excel and Tableau. The
 - `/visuals/` – Tableau workbook
 - `crime_analysis_summary.xlsx` – contains cleaned data and pivot tables
 
----
+--- > ⚠️ The original dataset is no longer publicly available. This repository showcases the process, visuals, and analysis summary.
+
 
 👤 [About Me](https://www.linkedin.com/in/davidhyppolite)  
 📂 [More Projects](https://github.com/davidhyppolite)
